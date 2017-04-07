@@ -1,0 +1,11 @@
+{
+  "name": "iris-name-gen",
+  "version": "0.1.0",
+  "description": "A name generator for characters in my Iris campaign.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
