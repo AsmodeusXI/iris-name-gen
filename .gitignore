@@ -1,1 +1,9 @@
+# Mac System Files
 .DS_Store
+
+# NPM configuration
+node_modules
+npm_debug.log
+
+# Compilation files
+bundle.js
