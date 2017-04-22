@@ -7,3 +7,4 @@ npm_debug.log
 
 # Compilation files
 bundle.js
+*.css

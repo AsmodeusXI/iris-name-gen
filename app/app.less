@@ -1,0 +1,19 @@
+html, body, .iris-generator {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+
+  h1 {
+    text-align: center;
+  }
+
+  article[name="main"] {
+    height: 100%;
+    display: flex;
+
+    @import "tabs/tabs.less";
+    @import "generator/generator.less";
+  }
+}
